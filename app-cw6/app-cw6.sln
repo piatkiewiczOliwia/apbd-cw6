@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app-cw6", "app-cw6\app-cw6.csproj", "{A7842F8B-6401-47E8-8FE7-7367F4FF4E67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7842F8B-6401-47E8-8FE7-7367F4FF4E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7842F8B-6401-47E8-8FE7-7367F4FF4E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7842F8B-6401-47E8-8FE7-7367F4FF4E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7842F8B-6401-47E8-8FE7-7367F4FF4E67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
